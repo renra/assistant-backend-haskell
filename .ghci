@@ -1,0 +1,8 @@
+:set -fwarn-unused-binds
+:set -fwarn-unused-imports
+:set -Wno-deprecations
+:set -fno-missing-signatures
+:set --color=always
+
+:set -isrc
+:set -itest
